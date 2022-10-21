@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    display: block;
+}
+p{
+    margin-top: 50px;
+}
+p label{
+    font-size: 20px;
+}
+p button{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 25px;
+}
